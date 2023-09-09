@@ -10,10 +10,12 @@
 ### Checkout [My full Resume](https://github.com/mahdidahouei/mahdidahouei/files/12565766/cv-mahdi.dahouei.pdf)   
 
   ## <img width="25px" src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/22fa7bf6-f853-4d3a-bf29-1e791287fb9e">  Afterhours
+  https://afthr.com
   - App Store: https://apps.apple.com/us/app/afterhours-bookings/id6444783956
   - Google Play: https://play.google.com/store/apps/details?id=com.afthr.afterhours
     
   ## <img width="25px" src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/67b73bf6-5173-4a5c-bb50-fc04093e3270">  Donak
+  https://donak.ir
   - Bazaar: https://cafebazaar.ir/app/ir.donak.donak?l=en
   - Web Application: https://app.donak.ir
 
