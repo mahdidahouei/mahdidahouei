@@ -8,10 +8,8 @@
   - <a href="https://www.youtube.com/watch?v=EVofR60I0vY">Rachmaninoff</a> is cool!  
     <img src="https://i.giphy.com/media/8re0wDQJs3Hkx22S1q/giphy.webp" width="156px">
 
-### Checkout [My full Resume](https://github.com/mahdidahouei/mahdidahouei/files/12565766/cv-mahdi.dahouei.pdf)
+### Checkout [My full Resume](https://github.com/mahdidahouei/mahdidahouei/files/12565766/cv-mahdi.dahouei.pdf)   
 
-  
-### Published Applications
   ## <img width="25px" src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/22fa7bf6-f853-4d3a-bf29-1e791287fb9e">  Afterhours
   - App Store: https://apps.apple.com/us/app/afterhours-bookings/id6444783956
   - Google Play: https://play.google.com/store/apps/details?id=com.afthr.afterhours
