@@ -9,7 +9,7 @@ https://mahdidahouei.com/
   - 🎹 <a href="https://www.youtube.com/watch?v=EVofR60I0vY">Rachmaninoff</a> is cool! <img src="https://i.giphy.com/media/cmDwvUINhCn3G/giphy.webp" width="25px">  
     <img src="https://i.giphy.com/media/8re0wDQJs3Hkx22S1q/giphy.webp" width="156px">
 
-### Checkout [My full Resume](https://github.com/mahdidahouei/mahdidahouei/files/12735282/cv-mahdi.dahouei.pdf)   
+### Checkout [My full CV](https://github.com/user-attachments/files/25517978/MahdiDahoueiCV.pdf)
 
   ## <img width="25px" src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/22fa7bf6-f853-4d3a-bf29-1e791287fb9e">  Afterhours
   https://afthr.com
